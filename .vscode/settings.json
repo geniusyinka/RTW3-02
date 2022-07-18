@@ -1,0 +1,5 @@
+{
+    "debug.javascript.debugByLinkOptions": "on",
+    "javascript.suggestionActions.enabled": false,
+    "typescript.suggestionActions.enabled": false
+}
